@@ -9,7 +9,7 @@ img{
     font-weight: bold;
 }
 body{
-    background-image: url(covercv.jpg);
+    background-image: url('./covercv.jpg');
     background-size:cover;
     background-repeat: no-repeat;
 }
